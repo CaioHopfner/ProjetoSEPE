@@ -1,6 +1,6 @@
 # Criação das Bases do Site
 
-## Ata 05 21/08/2025
+## Ata 05: 21/08/2025
 ### Tema: Começo do Codigo Base HTML e CSS do Site
 
 ```
@@ -21,4 +21,4 @@ Alana e João planejaram e fizeram posts para o Instagram.
 
 Larissa continuou a construir as paginas no Figma.
 
-## Ata 06 22/08/2025
+## Ata 06: 22/08/2025
