@@ -70,7 +70,7 @@ Motamos as Redes Sociais
 Começamos a montar o modelo do Figma para o Site
 
 ## Ata 04: 15/08/2025
-## Tema: Organização dos Supervisores de Projeto
+### Tema: Organização dos Supervisores de Projeto
 
 ```
 	Presentes:
